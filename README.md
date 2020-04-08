@@ -15,5 +15,5 @@
 
 打开美国区PayPal官网:https://www.paypal.com/us/home
 
-![截屏2020-04-08上午9.26.31](/Users/xd/lijie.hu/lijiehu/shadowsocks-/README.assets/%E6%88%AA%E5%B1%8F2020-04-08%E4%B8%8A%E5%8D%889.26.31.png)
+![截屏2020-04-08上午9.26.31](./README.assets/%E6%88%AA%E5%B1%8F2020-04-08%E4%B8%8A%E5%8D%889.26.31.png)
 
